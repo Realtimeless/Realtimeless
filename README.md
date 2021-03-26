@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**dev2steam/dev2steam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0000  00000 0   0 0000   0000 00000 00000   0   0   0
+0   0 0     0   0     0 0       0   0      0 0  00 00
+0   0 00000  0 0   000   000    0   00000  000  0 0 0
+0   0 0      0 0  0         0   0   0     0   0 0   0
+0000  00000   0   00000 0000    0   00000 0   0 0   0
 
-Here are some ideas to get you started:
+Presents
+==================================
+Puyo Puyo Tetris 2 Steam Optimizer
+==================================
+This program will eliminate Lag and slowdowns in Puyo Puyo Tetris 2 for Non-AVX Supported CPUs or Integrated GPUs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It gets from 30fps with slowdowns into 60fps without slowdowns.
+
+This is good for Low-End PCs or Laptops.
+
+Created by dev2steam
