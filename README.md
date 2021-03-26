@@ -9,3 +9,5 @@ It gets from 30fps with slowdowns into 60fps without slowdowns.
 This is good for Low-End PCs or Laptops.
 
 Created by dev2steam
+
+This program must be run as administrator.
